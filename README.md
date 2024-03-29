@@ -6,7 +6,7 @@ This repo contains my solutions for some C# katas submitted in [Codewars](https:
 
 ## Prerequisites
 
-You need to install the [dotnet-sdk](https://github.com/dotnet/sdk) and the [dotnet-runtime-3.1](https://dotnet.microsoft.com/en-us/download/dotnet/3.1)
+You need to install the [dotnet-sdk](https://github.com/dotnet/sdk) and the [.NET 8.0](https://dotnet.microsoft.com/en-us/download/dotnet/8.0)
 for your OS to build this project and run its tests.
 
 ## Build
